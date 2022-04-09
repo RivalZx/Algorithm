@@ -7,6 +7,7 @@ import java.util.List;
 /**
  * @program: Algorithm
  * @description: 全排列2
+ * 给定一个可包含重复数字的序列 nums ，按任意顺序 返回所有不重复的全排列。
  * @author: he-zx
  * @create: 2022-03-29 15:36
  **/

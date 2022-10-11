@@ -1,4 +1,4 @@
-package everyday;
+package company.huawei;
 
 /**
  * @program: Algorithm

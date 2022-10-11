@@ -1,4 +1,4 @@
-package everyday;
+package company.huawei;
 
 import java.util.ArrayList;
 import java.util.List;

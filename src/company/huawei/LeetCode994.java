@@ -1,7 +1,6 @@
-package everyday;
+package company.huawei;
 
 import java.util.ArrayDeque;
-import java.util.Deque;
 import java.util.Queue;
 
 /**

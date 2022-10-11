@@ -1,4 +1,4 @@
-package everyday;
+package company.bytedance;
 
 public class ListNode {
     public int val;
